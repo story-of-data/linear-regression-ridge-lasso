@@ -1,5 +1,8 @@
 # Linear Regression with Ridge and Lasso Regularization
 
+![Story-of-Data](https://user-images.githubusercontent.com/114144676/193411915-01bd667c-73c0-484c-a374-f9977fc37eea.png)
+
+
 ## Short Description
 
 Predicting Boston housing prices using Linear regression with Ridge and Lasso prediction having GridSearch
